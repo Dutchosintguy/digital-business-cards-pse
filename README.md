@@ -7,7 +7,7 @@ Using a Google a Programmable  Search Engine to make custom Digital Business Car
 https://cse.google.com/cse?cx=bee58a1c31f451e4a
 
 
-https://github.com/Dutchosintguy/digital-business-cards-pse/blob/main/example/businesscard-cse.gif
+![Example search by Firstname](https://github.com/Dutchosintguy/digital-business-cards-pse/blob/main/example/businesscard-cse.gif)
 
 
 

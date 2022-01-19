@@ -6,8 +6,11 @@ Using a Google a Programmable Search Engine to make custom Digital Business Card
 ## Already set up ready to use Custom Digital Business Card Search Engines (3 in total) can be found here:
 
 001 https://cse.google.com/cse?cx=bee58a1c31f451e4a
+
 002 https://cse.google.com/cse?cx=c8b40db66ea102c6d
+
 003 https://cse.google.com/cse?cx=993b7d5363704714b
+
 
 ![Example search by Firstname](https://github.com/Dutchosintguy/digital-business-cards-pse/blob/main/example/businesscard-cse.gif)
 

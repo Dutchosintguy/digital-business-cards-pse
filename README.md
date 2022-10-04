@@ -42,4 +42,5 @@ Once set up you can search for:
 Basically anything that clould be a placeholder in a digital business card can be found.
 
 - updated October 4, 2022 > added refinments and added linksome.me
+- updated October 4, 2022 > Turned of search suggestions (opsec reason) and turned on image filter tab
 
